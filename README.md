@@ -2,7 +2,6 @@
 
 A hierarchical chess AI assistant that provides natural language analysis and recommendations for chess positions. Built for the AI + Crypto Gaming Hackathon on Starknet.
 
-![Chess AI Assistant](https://via.placeholder.com/800x400?text=BrainMate+Chess)
 
 ## Overview
 
