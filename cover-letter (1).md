@@ -42,6 +42,6 @@ I'm committed to completing this project successfully and am eager to learn the 
 
 Thank you for your consideration,
 
-[Your Name]
+[Nihaar Raut]
 
 BrainMate Chess Project
